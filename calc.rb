@@ -2,7 +2,6 @@
 print 'Enter the 1-st znachenie = '
 zn_1 = gets.chomp.to_f
 
-
 print 'Enter the operator : '
 operator = gets.chomp
 
